@@ -89,12 +89,12 @@ El héroe desapercibido de nuestro mundo conectado
 Es la Interfaz de Programación de Aplicaciones
 
 23
-00:00:38.500 --> 00:00:38.833
-o
+00:00:38.500 --> 00:00:38.966
+o API
 
 24
-00:00:38.966 --> 00:00:39.566
-API
+00:00:38.966 --> 00:00:39.766
+o API
 
 25
 00:00:39.833 --> 00:00:41.133
@@ -330,7 +330,7 @@ escoger algunas preferencias
 
 83
 00:02:39.800 --> 00:02:40.966
-o opciones del paquete.
+u opciones del paquete.
 
 84
 00:02:41.600 --> 00:02:46.466
@@ -342,7 +342,9 @@ el cual te lo muestra.
 
 86
 00:02:48.266 --> 00:02:52.966
-Así que ahora puedes ver que hay APIsque hacen posible para todos nosotrosusar sitios web de viajes
+Así que ahora puedes ver que hay APIs
+que hacen posible para todos nosotros
+usar sitios web de viajes
 
 87
 00:02:53.300 --> 00:02:57.133
@@ -366,7 +368,7 @@ piensa que es tu mozo
 
 92
 00:03:06.433 --> 00:03:10.233
-yendo y vieniendo entre aplicaciones, bases de datos y dispositivos
+yendo y viniendo entre aplicaciones, bases de datos y dispositivos
 
 93
 00:03:10.233 --> 00:03:14.566
